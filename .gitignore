@@ -1,8 +1,21 @@
-Assets/
+Assets/Animations/
+Assets/Audios/
+Assets/Editor/
+Assets/Fonts/
+Assets/Gizmos/
+Assets/Materials/
+Assets/MobileDependancyResolver/
+Assets/Models/
+Assets/Post-Process Profile/
+Assets/Prefabs/
+Assets/Resources/
+Assets/Scenes/
+Assets/ScriptableData/
+Assets/Sprites/
+Assets/Textures/
+*.meta
 
-!Assets/Scripts/
 
-Assets/Scripts/*.meta
 
 
 
