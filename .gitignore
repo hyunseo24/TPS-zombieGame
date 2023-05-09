@@ -2,4 +2,7 @@ Assets/
 
 !Assets/Scripts/
 
-*.meta
+Assets/Scripts/*.meta
+
+
+
