@@ -1,7 +1,8 @@
 # TPS-zombieGame
 ---
 
-Third Person Shooter 좀비 게임
+Third Person Shooter 좀비 게임  
+
 Zombie theme third-person shooter
 --
 > Unity Engine 사용
