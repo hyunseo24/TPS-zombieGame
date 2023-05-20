@@ -5,8 +5,9 @@ Third Person Shooter 좀비 게임
 
 Zombie theme third-person shooter
 --
-> Unity Engine 사용
 > 개인 프로젝트
+> Unity Engine
+> OS Window
 ---
 - WASD 로 조작
 - 마우스 좌클릭으로 화기 작동
